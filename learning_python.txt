@@ -1,0 +1,3 @@
+In Python I can declare variables.
+In Python I can define functions.
+In Python I can import classes from modules.
